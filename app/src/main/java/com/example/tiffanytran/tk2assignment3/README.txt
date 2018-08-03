@@ -1,0 +1,6 @@
+# TK2Assignment3
+
+#Kelly Hong ID: 79653861
+#Tiffany Tran ID: 82839610
+
+For Assignment 3, Dig Dug, the user is able to control Dig Dug’s movement by clicking on the up, down, left, and right buttons.  In order to attack, the user can click on the “attack” button, which creates a line (3 spaces long) to attack the monsters.  In the beginning of the game, there are 4 monsters (2 of the same type), 3 rocks, and 1 DigDug on a 13x13 grid.  Initially, 1 space on the left and right side of the monster will be a black space for a tunnel and the rest of the game map will be filled with dirt.  DigDug will then proceed to dig some dirt, which creates a path in which he can attack the monsters, or for the monsters to attack DigDug.  The fire monster breathes 1 space of fire when it attacks and all 4 monsters can turn into a ghost and attack DigDug.  DigDug can kill the monster by inflating the monster 3 times by clicking on the “attack” button 3 times.  However, the monster can deflate if it does not get hit constantly.  After all 4 monsters are killed by DigDug, the game will print out “You win!” If DigDug is killed by the monsters or by a falling rock, it will print out “Game Over”.  The falling rock can also kill the monsters.  After a random amount of time, the monsters will turn into a ghost and then turn back into its original appearance inside a tunnel.
